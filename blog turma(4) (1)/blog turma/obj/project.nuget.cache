@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5y6P08jZr2M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EBC8NL117\\Downloads\\blog turma-20261028T112027Z-1-001\\blog turma\\blog turma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\dotenv.net\\4.2.0\\dotenv.net.4.2.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\dotnetenv\\3.2.0\\dotnetenv.3.2.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.extensions.configuration\\1.1.2\\microsoft.extensions.configuration.1.1.2.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\1.1.2\\microsoft.extensions.configuration.abstractions.1.1.2.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.extensions.primitives\\1.1.1\\microsoft.extensions.primitives.1.1.1.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\EBC8NL117\\.nuget\\packages\\superpower\\3.0.0\\superpower.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

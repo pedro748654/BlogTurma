@@ -1,0 +1,33 @@
+C:\Users\EBC8NL117\OneDrive\vs-pedrom\blog turma\obj\Debug\net10.0\blog turma.csproj.AssemblyReference.cache
+C:\Users\EBC8NL117\OneDrive\vs-pedrom\blog turma\obj\Debug\net10.0\blog turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBC8NL117\OneDrive\vs-pedrom\blog turma\obj\Debug\net10.0\blog turma.AssemblyInfoInputs.cache
+C:\Users\EBC8NL117\OneDrive\vs-pedrom\blog turma\obj\Debug\net10.0\blog turma.AssemblyInfo.cs
+C:\Users\EBC8NL117\OneDrive\vs-pedrom\blog turma\obj\Debug\net10.0\blog turma.csproj.CoreCompileInputs.cache
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\blog turma.exe
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\blog turma.deps.json
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\blog turma.runtimeconfig.json
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\blog turma.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\blog turma.pdb
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\dotenv.net.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\DotNetEnv.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\bin\Debug\net10.0\Superpower.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.csproj.AssemblyReference.cache
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.AssemblyInfoInputs.cache
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.AssemblyInfo.cs
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.csproj.CoreCompileInputs.cache
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.csproj.Up2Date
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\refint\blog turma.dll
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.pdb
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\blog turma.genruntimeconfig.cache
+C:\Users\EBC8NL117\Downloads\blog turma-20261028T112027Z-1-001\blog turma\obj\Debug\net10.0\ref\blog turma.dll
